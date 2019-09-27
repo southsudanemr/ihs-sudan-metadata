@@ -1,0 +1,50 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:126,Data class,Data type,Answers
+a226366c-01ca-4c6c-8817-15ccceba3263,,Follow up - Scheduled,Scheduled,Follow up - Scheduled,,,,Question,Boolean,
+ee31f5fc-40b8-417d-8350-1a74431c220b,,ART Follow up - Scheduled Date,Date,ART Follow up - Scheduled Date,,,,Question,Date,
+9efbdca3-7ca8-4205-8285-46151802a887,,Duration For Current Regimen,Duration For Current Regimen,Duration For Current Regimen,,,,Question,Date,
+8df413d9-e018-4a38-817f-fcf718f0df2f,,Current on FP,Current on FP,Current on FP,,,,Question,Boolean,
+1fe0597e-470d-49bd-9d82-9c7b7342dab0,,Condoms,,,,,,Misc,N/A,
+609d59f7-79d1-4748-ad86-57c831dbff60,,FP Method,FP Method,FP Method,,,,Question,Coded,Condoms ; Implant ;IUCD ; Depo
+1ccceceb-fb05-4ef6-845b-e0d64d3f9ba4,,FP Pregnant,Pregnant,Pregnant,,,,Question,Boolean,
+12118225-edad-45e2-9313-a5bca2cb4995,,EDD,EDD,EDD,,,,Question,Date,
+1d593268-8a2d-4030-bf1d-9c341d47f875,,PMTCT - HIV & ART Follow up,PMTCT,PMTCT - HIV & ART Follow up,,,,Question,Boolean,
+58ab89cd-6674-480b-95a0-5b761b0275cb,,On TB Treatment,On TB Treatment,On TB Treatment,,,,Question,Boolean,
+ce828c13-dea2-43b7-85b9-975c5613b2db,,Date Started TB RX,Date Started TB RX,Date Started TB RX,,,,Question,Date,
+ba37b7be-2a5e-42ef-90f6-f4cd4723947e,,1g=TDF+3TC+NVP,1g=TDF+3TC+NVP,1g=TDF+3TC+NVP,,,,Misc,N/A,
+9286a105-8266-405b-a35a-a458d3a4c3d8,,2HRZE/4RH,2HRZE/4RH,2HRZE/4RH,,,,Misc,N/A,
+ddd4b2d1-014e-4c8d-87d9-37de3685e37a,,2SHRZE/1HRZE/5RH,2SHRZE/1HRZE/5RH,2SHRZE/1HRZE/5RH,,,,Misc,N/A,
+60388cf0-25df-4148-9e34-6ddd9e988323,,2HRZE/10RH,2HRZE/10RH,2HRZE/10RH,,,,Misc,N/A,
+d02b83cd-eaff-4015-a434-01406239c298,,4 Am-Mfx-Pto-Clz-Z-H high-dose-E/5 Mfx-Cfx-Cfz-Z-E,4 Am-Mfx-Pto-Clz-Z-H high-dose-E/5 Mfx-Cfx-Cfz-Z-E,4 Am-Mfx-Pto-Clz-Z-H high-dose-E/5 Mfx-Cfx-Cfz-Z-E,,,,Misc,N/A,
+5ba046b4-42e9-4ffb-81a2-6cd4fc03ee70,,TB Regimen Second Line,TB Regimen Second Line,TB Regimen Second Line,,,,Question,Coded,4 Am-Mfx-Pto-Clz-Z-H high-dose-E/5 Mfx-Cfx-Cfz-Z-E
+4199b8d5-ab1f-4623-9083-a6764059f424,,TB Regimen For Children,TB Regimen For Children,TB Regimen For Children,,,,Question,Coded,2HRZE/10RH
+1c44444b-ac9a-4d2a-bb83-9299ab05668c,,TB Regimen On,TB Regimen On,TB Regimen On,,,,Question,Coded,2HRZE/4RH ; 2SHRZE/1HRZE/5RH
+13498474-ba95-4fec-8010-c8c5e24748ff,,Side Effects,Side Effects,Side Effects,,,,Question,Text,
+88f2a6ea-367d-45dc-942a-b809b0d17275,,Stage 1,Stage 1,Stage 1,,,,Misc,N/A,
+17a3b24b-e107-49fe-8b0d-69c3b7e60f4c,,Stage 2,Stage 2,Stage 2,,,,Misc,N/A,
+ebd187f8-d15a-4fad-8849-9f74da5c3fc9,,Stage 3,Stage 3,Stage 3,,,,Misc,N/A,
+831d263e-4dfb-4f05-bcfb-629961c07844,,Stage 4,Stage 4,Stage 4,,,,Misc,N/A,
+e38e6ce2-92d9-4382-927b-5555ff9fa850,,WHO Stage,WHO Stage,WHO Stage,,,,Question,Coded,Stage 1 ;Stage 2 ;Stage 3;Stage 4
+222dc837-30a5-42c4-a0a9-7d4a125ffe70,,Cotrimoxazole/Dapsone,Cotrimoxazole/Dapsone,Cotrimoxazole/Dapsone,,,,Question,Boolean,
+4238e921-d4c8-4645-ab94-b4f4bf5f2d93,,Dose,Dose,Dose,,,,Question,Text,
+ac775264-a811-4b3e-a64f-0c20ae8f9b0c,,Adherence Dose/Days - Number of Days,# of Days,Adherence Dose/Days - Number of Days,,,,Question,Numeric,
+b6ae8e33-aa58-47e4-84be-5b8599a177b7,,ART Follow up - Information,Follow Up Information,ART Follow up - Information,,,,Misc,N/A,
+23322fd6-3dbb-410e-8bee-6210dfcd5f71,,ARV Regimen,ARV Regimen,ARV Regimen,,,,Question,Coded,1g=TDF+3TC+NVP
+4ab28128-7ef3-452d-86d5-73561761b08a,,Number of Days Dispensed,Number of Days,Number of Days Dispensed,,,,Question,Numeric,
+fc684917-4deb-42cf-9245-8a13c6a232bc,,Date VL Sample Collected?,Date VL Sample Collected?,Date VL Sample Collected?,,,,Question,Date,
+8b5ef5c4-3c88-49b8-87e5-cb8d30caa77d,,VL Results,VL Result,VL Results,,,,Question,Numeric,
+714752ad-61df-44e0-ae40-fa9bf4f9d831,,Adherence Good,Good,Adherence Good,,,,Misc,N/A,
+535ea56b-0138-4804-ab23-e70f2dbe0b61,,Adherence Fair,Fair,Adherence Fair,,,,Misc,N/A,
+f05f31c1-5f06-4ada-8cbd-a877cb06442a,,Adherence Poor,Poor,Adherence Poor,,,,Misc,N/A,
+62750e0f-7601-4d16-85e7-ca4f3ecd9448,,ARVs Adherence,Adherence,ARVs Adherence,,,,Question,Coded,Adherence Good ; Adherence Fair ; Adherence Poor
+6ad327aa-d514-4b31-b21c-294a62a6fb30,,Classification Of Adherence,Classification Of Adherence,Classification Of Adherence,,,,Question,Coded,Adherence Good ; Adherence Fair ; Adherence Poor
+75d4842c-7f4a-4a84-b298-4d1a91b66eb0,,Investigations Information,Investigations Information,Investigations Information,,,,Misc,N/A,
+c38e5cc4-3f10-11e4-adec-0800271c1b75,,Follow up Date,Follow up Date,Follow up Date,,,,Question,Date,
+8ec83611-795e-44d0-b359-a667a073bf07,,Refer,Refer,Refer,,,,Misc,N/A,
+5b4c24fd-b3b2-454b-8b26-2300ea774b07,,Consult,Consult,Consult,,,,Misc,N/A,
+d521c7e0-207e-4e9d-97e4-e376b38b664f,,Link/Provide,Link/Provide,Link/Provide,,,,Misc,N/A,
+0fc3cc86-6c9f-4d79-9c39-900dab27a33c,,Plan,Plan,Plan,,,,Question,Coded,Refer ; Consult ;Link/Provide
+b87bac5e-b6ca-40a5-a3d0-a3fa34a94f5d,,Hospitalised,Hospitalised,Hospitalised,,,,Question,Boolean,
+73aeaec5-4169-40a9-8b59-f799b28a548c,,Number of Days Hospitalized,# of Days,Number of Days Hospitalized,,,,Question,Numeric,
+611d6c22-7c6d-47cf-a74e-190f9e3cdd47,,Clinician Name,Clinician Name,Clinician Name,,,,Question,Text,
+9890cc1e-dbaf-49ec-82bb-1093dcf92ab6,,Follow up Information,Follow up Information,Follow up Information,,,,Misc,N/A,
+beffd410-b9a4-4cfd-9a29-22512980de1b,,HIV AND ART FOLLOW UP FORM,HIV AND ART FOLLOW UP FORM,HIV AND ART FOLLOW UP FORM,,,,Misc,N/A,

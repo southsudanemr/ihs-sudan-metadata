@@ -1,0 +1,13 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:129,Data class,Data type,Answers
+041daad2-198b-4223-aa46-6b23e85776a9,,Death,,,,,,Misc,N/A,
+52ce6b47-a049-4b56-9cf7-0852939a87af,,Lost Follow up - Date of Death,Date,"Lost Follow-Up, Death Date",,,,Question,Date,
+f49a0381-3dc7-47d8-a9a6-4cfd433f1d34,,Death Information,Death Information,Death Information,,,,Misc,N/A,
+0759fae0-bebf-4fd0-b5d5-999be4296f01,,Lost Follow Up(< 28days) ,Lost Follow Up(< 28days) ,Lost Follow Up(< 28days) ,,,,Misc,N/A,
+773cd838-7b21-4f34-9b33-0a071140f817,,Lost Follow up (Last Visit Date),Last Visit Date,Lost Follow up (Last Visit Date),,,,Question,Date,
+40bdba82-8cbf-4902-998e-e51a7cd11966,,Lost To Follow Up Information,Lost To Follow Up Information,Lost To Follow Up Information,,,,Misc,N/A,
+b949cd75-97cb-4de2-9553-e6d335696f07,,Transferred Out,,,,,,Misc,N/A,
+e605731b-2e81-41a9-8446-2ed442c339e2,,Date,,,,,,Misc,Date,
+ccdfc79c-0c19-4731-ab95-f41a82480069,,Location,Location,Location,,,,Question,Text,
+759ff83c-e9dc-4e69-9ec4-279631546b98,,Transferred Out Information,Transferred Out Information,Transferred Out Information,,,,Misc,N/A,
+28cf30e9-d37b-474d-a715-f62cd19a62e5,,End Of Follow Up Reason,Reason,End Of Follow Up Reason,,,,Question,Coded,Death ; Lost Follow Up(< 28days)  ;Transferred Out
+8ef5716c-0df6-48d3-92fb-f9476424a8e0,,End Of Follow Up Form,End Of Follow Up Form,End Of Follow Up Form,,,,Misc,N/A,

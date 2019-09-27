@@ -1,0 +1,13 @@
+Uuid,Answers,Members,Fully specified name:en,Data class,Data type,_version:1,_order:127
+609d59f7-79d1-4748-ad86-57c831dbff60,Condoms ; Implant ;IUCD ; Depo,,FP Method,Question,Coded,,
+1c44444b-ac9a-4d2a-bb83-9299ab05668c,2HRZE/4RH ; 2SHRZE/1HRZE/5RH,,TB Regimen On,Question,Coded,,
+4199b8d5-ab1f-4623-9083-a6764059f424,2HRZE/10RH,,TB Regimen For Children,Question,Coded,,
+5ba046b4-42e9-4ffb-81a2-6cd4fc03ee70,4 Am-Mfx-Pto-Clz-Z-H high-dose-E/5 Mfx-Cfx-Cfz-Z-E,,TB Regimen Second Line,Question,Coded,,
+62750e0f-7601-4d16-85e7-ca4f3ecd9448,Adherence Good ; Adherence Fair ; Adherence Poor,,ARVs Adherence,Question,Coded,,
+e38e6ce2-92d9-4382-927b-5555ff9fa850,Stage 1 ;Stage 2 ;Stage 3;Stage 4,,WHO Stage,Question,Coded,,
+b6ae8e33-aa58-47e4-84be-5b8599a177b7,,FP Pregnant ; EDD ;PMTCT - HIV & ART Follow up ;  Current on FP ; FP Method ; Follow up - Scheduled ;ART Follow up - Scheduled Date ;  On TB Treatment ; Date Started TB RX ; TB Regimen On ; TB Regimen For Children; TB Regimen Second Line ;Side Effects ; WHO Stage ; Cotrimoxazole/Dapsone ; ARVs Adherence;Dose ;Adherence Dose/Days - Number of Days,ART Follow up - Information,Misc,N/A,,
+6ad327aa-d514-4b31-b21c-294a62a6fb30,Adherence Good ; Adherence Fair ; Adherence Poor,,Classification Of Adherence,Question,Coded,,
+75d4842c-7f4a-4a84-b298-4d1a91b66eb0,,ARV Regimen ; Number of Days Dispensed ; Date VL Sample Collected? ; VL Results;Classification Of Adherence,Investigations Information,Misc,N/A,,
+0fc3cc86-6c9f-4d79-9c39-900dab27a33c,Refer ; Consult ;Link/Provide,,Plan,Question,Coded,,
+9890cc1e-dbaf-49ec-82bb-1093dcf92ab6,,Plan;Hospitalised; Number of Days Hospitalized ; Clinician Name,Follow up Information,Misc,N/A,,
+beffd410-b9a4-4cfd-9a29-22512980de1b,,ART Follow up - Information ; Investigations Information ; Follow up Information,HIV AND ART FOLLOW UP FORM,Misc,N/A,,

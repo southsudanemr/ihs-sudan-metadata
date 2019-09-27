@@ -1,0 +1,12 @@
+Uuid,Answers,Members,Fully specified name:en,Data class,Data type,_version:1,_order:123
+8eaae386-92dd-47df-b39e-89e60a42d00b,,Date First Tested HIV +  ; Place Tested HIV +  ; Date of HIV Retesting Before ART ; Place of HIV Retesting Before ART,First HIV Test Information,Misc,N/A,,
+1ce0afd4-f6d2-4b80-b61a-11da81c760ce,,Transferred in on ART? ; Name of Clinic; Date Transferred in,ART Transfer Information,Misc,N/A,,
+f1a35737-434c-46e9-8c46-4e17b98e305d,VCT Clinic;TB Clinic ; STI Clinic ; ANC Clinic ; In Patient ; Padeatric ; Entry Point - OPD; CBTC ; Index Testing ; Other Entry Point (Specify),,HIV - Entry Point,Question,Coded,,
+3c262fa2-e1e7-4ec3-9377-b9ddf3184991,,First HIV Test Information ; HIV - Entry Point ; Other Entry Point ;  ART Transfer Information,HIV Testing History,Misc,N/A,,
+159400AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,,,Literate,Question,Boolean,,
+1712AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,Education Level - Primary ; Education Level - Secondary  ; Education Level - University/College,,Education Level,Question,Coded,,
+f77b636b-21e7-4568-9719-bbdd67c3c736,Alcohol Intake - Habitual ; Alcohol Intake - Social ;Alcohol Intake - Not Use,,HIV Care - Alcohol Intake,Question,Coded,,
+0ca3ffa7-0d29-4043-8b78-3dd40f5806d1,,,Drug Allergies,Question,Boolean,,
+4f0579ef-d9cd-4f09-ad16-0eb7a6ac9710,,,HIV Care -Drug Allergies Notes,Question,Text,,
+b3b5cc6c-6bf8-4984-839d-83059e30b622,,Literate ; Education Level ; HIV Care - Alcohol Intake ; Drug Allergies ; HIV Care -Drug Allergies Notes,"Personal History, HIV",Misc,N/A,,
+55c92dcd-5af3-4f20-b828-a309b16b28c3,,"HIV Testing History ; Personal History, HIV",HIV AND PERSONAL HISTORY FORM,Misc,N/A,,

@@ -1,0 +1,34 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:146,Data class,Data type,Answers
+c0747bba-c336-11e9-9cb5-2a2ae2dbcce4, ,HEI Testing (First PCR Test Date),Date,HEI Testing (First PCR Test Date),,,,Question,Date,
+c074802e-c336-11e9-9cb5-2a2ae2dbcce4,,HEI Testing (First PCR Feeding Method),Feeding Method,HEI Testing (First PCR Feeding Method),,,,Question,Coded,EBF(Exclusive Breastfeeding); CF(Complimentary Feeding >6months); RF-Replacement feeding(Never Breastfeed) ;  Weaning ; Mixed Feeding(> 6 Months) ; No longer Breastfeed
+c07482cc-c336-11e9-9cb5-2a2ae2dbcce4,,HEI Testing (First PCR Result),Test Results,HEI Testing (First PCR Result),,,,Question,Text,
+c0748420-c336-11e9-9cb5-2a2ae2dbcce4,,HEI Testing (First PCR Date Result Given to Caregiver),Date Results Given To Caregiver,HEI Testing (First PCR Date Result Given to Caregiver),,,,Question,Date,
+c07485d8-c336-11e9-9cb5-2a2ae2dbcce4,,First PCR Test Details,First PCR Test Details,First PCR Test Details,,,,Misc,N/A,
+c0748808-c336-11e9-9cb5-2a2ae2dbcce4,,HEI Testing (Rapid Test At 9 Months Date),Date,HEI Testing (Rapid Test At 9 Date),,,,Question,Date,
+c0748952-c336-11e9-9cb5-2a2ae2dbcce4,,HEI Testing (Rapid Test At 9 Months Feeding Method),Feeding Method,HEI Testing (Rapid Test At 9 Months Feeding Method),,,,Question,Coded,EBF(Exclusive Breastfeeding); CF(Complimentary Feeding >6months); RF-Replacement feeding(Never Breastfeed) ;  Weaning ; Mixed Feeding(> 6 Months) ; No longer Breastfeed
+c0748af6-c336-11e9-9cb5-2a2ae2dbcce4,,HEI Testing (Rapid Test At 9 Months Result),Test Results,HEI Testing (Rapid Test At 9 Months Result),,,,Question,Text,
+c0748c36-c336-11e9-9cb5-2a2ae2dbcce4,,HEI Testing (Rapid Test At 9 Months Date Result Given to Caregiver),Date Results Given To Caregiver,HEI Testing (Rapid Test At 9 Months Date Result Given to Caregiver),,,,Question,Date,
+c0748e34-c336-11e9-9cb5-2a2ae2dbcce4,,Rapid Test At 9Months Details,Rapid Test At 9Months Details,Rapid Test At 9Months Details,,,,Misc,N/A,
+c0748fe2-c336-11e9-9cb5-2a2ae2dbcce4,,HEI Testing (Second PCR Test Date),Date,HEI Testing (Second PCR Test Date),,,,Question,Date,
+c0749186-c336-11e9-9cb5-2a2ae2dbcce4,,HEI Testing (Second PCR Feeding Method),Feeding Method,HEI Testing (Second PCR Feeding Method),,,,Question,Coded,EBF(Exclusive Breastfeeding); CF(Complimentary Feeding >6months); RF-Replacement feeding(Never Breastfeed) ;  Weaning ; Mixed Feeding(> 6 Months) ; No longer Breastfeed
+c07492bc-c336-11e9-9cb5-2a2ae2dbcce4,,HEI Testing (Second PCR Result),Test Results,HEI Testing (Second PCR Result),,,,Question,Text,
+c074953c-c336-11e9-9cb5-2a2ae2dbcce4,,HEI Testing (Second PCR Date Result Given to Caregiver),Date Results Given To Caregiver,HEI Testing (Second PCR Date Result Given to Caregiver),,,,Question,Date,
+c0749672-c336-11e9-9cb5-2a2ae2dbcce4,,Second PCR Details ,Second PCR Details ,HEI Testing (Second PCR Details ),,,,Misc,N/A,
+c07497ee-c336-11e9-9cb5-2a2ae2dbcce4,,HEI Testing (Repeat PCR Test Date),Date,HEI Testing (Repeat PCR Test Date),,,,Question,Date,
+c07499d8-c336-11e9-9cb5-2a2ae2dbcce4,,HEI Testing (Repeat PCR Feeding Method),Feeding Method,HEI Testing (Repeat PCR Feeding Method),,,,Question,Coded,EBF(Exclusive Breastfeeding); CF(Complimentary Feeding >6months); RF-Replacement feeding(Never Breastfeed) ;  Weaning ; Mixed Feeding(> 6 Months) ; No longer Breastfeed
+c0749b9a-c336-11e9-9cb5-2a2ae2dbcce4,,HEI Testing (Repeat PCR Result),Test Results,HEI Testing (Repeat PCR Result),,,,Question,Text,
+c0749cd0-c336-11e9-9cb5-2a2ae2dbcce4,,HEI Testing (Repeat PCR Date Result Given to Caregiver),Date Results Given To Caregiver,HEI Testing (Repeat PCR Date Result Given to Caregiver),,,,Question,Date,
+c0749eb0-c336-11e9-9cb5-2a2ae2dbcce4,,Repeat PCR Details,Repeat PCR Details,Repeat PCR Details,,,,Misc,N/A,
+c0749ffa-c336-11e9-9cb5-2a2ae2dbcce4,,HEI Testing (18Months Rapid Test Date),Date,HEI Testing (18Months Rapid Test Date),,,,Question,Date,
+c074a1e4-c336-11e9-9cb5-2a2ae2dbcce4,,HEI Testing (18Months Rapid Test Feeding Method),Feeding Method,HEI Testing (18Months Rapid Test Feeding Method),,,,Question,Coded,EBF(Exclusive Breastfeeding); CF(Complimentary Feeding >6months); RF-Replacement feeding(Never Breastfeed) ;  Weaning ; Mixed Feeding(> 6 Months) ; No longer Breastfeed
+c074a324-c336-11e9-9cb5-2a2ae2dbcce4,,HEI Testing (18Months Rapid Test  Result),Test Results,HEI Testing (18Months Rapid Test  Result),,,,Question,Text,
+c074a586-c336-11e9-9cb5-2a2ae2dbcce4,,HEI Testing (18Months Rapid Test Date Result Given to Caregiver),Date Results Given To Caregiver,HEI Testing (18Months Rapid Test Date Result Given to Caregiver),,,,Question,Date,
+c074a6da-c336-11e9-9cb5-2a2ae2dbcce4,,18Months Rapid Test Details,18Months Rapid Test Details,18Months Rapid Test Details,,,,Misc,N/A,
+c074a8a6-c336-11e9-9cb5-2a2ae2dbcce4,,HEI Testing(Final Result) ,Final Result,HEI Testing(Final Result) ,,,,Question,Coded,Positive ; Negative
+c074aafe-c336-11e9-9cb5-2a2ae2dbcce4,,Linkage to Care/Treatment ,Linkage to Care/Treatment ,Linkage to Care/Treatment ,,,,Misc,N/A,
+c074ac52-c336-11e9-9cb5-2a2ae2dbcce4,,HEI Treatment - Referred To ART Clinic,Referred To ART Clinic,HEI Treatment - Referred To ART Clinic,,,,Question,Boolean,
+c074ae28-c336-11e9-9cb5-2a2ae2dbcce4,,HEI Treatment - Referred To ART Clinic Date,Referred Date,HEI Treatment - Referred To ART Clinic Date,,,,Question,Date,
+c074af68-c336-11e9-9cb5-2a2ae2dbcce4,,HEI Treatment - Enrolled AT ART Clinic,Enrolled At ART Clinic,HEI Treatment - Enrolled AT ART Clinic,,,,Question,Boolean,
+c074b198-c336-11e9-9cb5-2a2ae2dbcce4,,HEI Treatment - Enrolled AT ART Date,Enrolled Date,HEI Treatment - Enrolled AT ART Date,,,,Question,Date,
+c074b2ec-c336-11e9-9cb5-2a2ae2dbcce4,,Was the Referral Presumptive?,Was the Referral Presumptive?,Was the Referral Presumptive?,,,,Question,Boolean,
+c074b65c-c336-11e9-9cb5-2a2ae2dbcce4,,HEI TESTING INFORMATION,HEI TESTING INFORMATION,HEI TESTING INFORMATION,,,,Misc,N/A,

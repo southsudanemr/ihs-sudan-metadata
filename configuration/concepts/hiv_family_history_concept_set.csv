@@ -1,0 +1,12 @@
+Uuid,Answers,Members,Fully specified name:en,Data class,Data type,_version:1,_order:121
+fdcd966e-0870-4d5d-a506-121efc0c39fb,"Marital Status - Single ;Married , Monogamous ; Married , Polygamous ; Divorced/Separated; Not Applicable ",,Marital Status,Question,Coded,,
+c221869a-3f10-11e4-adec-0800271c1b75,Occupation - Unemployed ; Occupation - Student ; Occupation - Housewife ; Occupation - Military Personnel ; Occupation - Other uniformed forces ; Occupation - Farmer ; Occupation - Other (Specify),,Occupation,Question,Coded,,
+9e9df8b6-3bad-454e-a2fc-04842d02d62a,,,Other - Occupation,Question,Text,,
+1d8f0541-f69d-483f-accc-2e2d48bd5f52,,Marital Status ; Occupation ; Other - Occupation,Family History Marital Status And Occupation,Misc,N/A,,
+d969948d-6671-4149-a234-7b991c70e1c1,Male ; Female,,Family Member - Sex,Question,Coded,,
+2eed6753-c2b7-4b85-a099-a78beb4eaff3,Husband ; Wife ; Mother ; Father ; Partner ; Sexual ;  Sibling ; Child ,,Family Member - Relationship,Question,Coded,,
+160f21c0-9a96-4ffd-a72c-aabed02b6a53,Known ; Don't Know,,Family Member - HIV Status ,Question,Coded,,
+75e39180-fe17-4075-9642-f389e6d1ea20,Positive ; Negative,,Result of HTS,Question,Coded,,
+ 86b66218-b6bd-4b48-8408-fa717ccfa0c4,Positive ; Negative ; HEI,,Result,Question,Coded,,
+63ec7ffb-8a42-42ec-9aaa-4758955205b2,,"Family Member names: Partner/children, & Unique No. In in care. ; Family Member - Age ; Family Member - Sex ; Phone Number ;  Family Member - Relationship ; Family Member - HIV Status  ; Result ;Date Tested HIV ;  Result of HTS ; Unique ART No/HEI No",General Family Information,Misc,N/A,,
+c2a6c127-e3ba-426f-a4ae-83713dde0736,,Family History Marital Status And Occupation ; General Family Information,HIV CARE - Family History Data,Misc,N/A,,

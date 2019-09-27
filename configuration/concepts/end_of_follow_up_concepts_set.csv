@@ -1,0 +1,6 @@
+Uuid,Answers,Members,Fully specified name:en,Data class,Data type,_version:1,_order:130
+f49a0381-3dc7-47d8-a9a6-4cfd433f1d34,,Lost Follow up - Date of Death,Death Information,Misc,N/A,,
+40bdba82-8cbf-4902-998e-e51a7cd11966,, Lost Follow up (Last Visit Date) ,Lost To Follow Up Information,Misc,N/A,,
+759ff83c-e9dc-4e69-9ec4-279631546b98,, Date ; Location,Transferred Out Information,Misc,N/A,,
+28cf30e9-d37b-474d-a715-f62cd19a62e5,Death ;Lost Follow Up(< 28days) ;Transferred Out,,End Of Follow Up Reason,Question,Coded,,
+8ef5716c-0df6-48d3-92fb-f9476424a8e0,,End Of Follow Up Reason ; Death Information ; Lost To Follow Up Information ; Transferred Out Information,End Of Follow Up Form,Misc,N/A,,
